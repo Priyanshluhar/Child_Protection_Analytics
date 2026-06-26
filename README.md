@@ -40,10 +40,3 @@ This project focuses on analyzing crimes against children in India using real-wo
 # Results
 The analysis highlights key correlations between different types of crimes and reveals patterns that can help in understanding and preventing crimes against children.
 
-# Future Work
-- Implement advanced ML models
-- Improve prediction accuracy
-- Integrate real-time datasets
-
-# Author
-Soumili Sarkar 
