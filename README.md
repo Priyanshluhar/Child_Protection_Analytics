@@ -22,7 +22,7 @@ This project focuses on analyzing crimes against children in India using real-wo
 
 # Technologies Used
 - Python
-- Pandas, NumPy
+- Pandas,NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
