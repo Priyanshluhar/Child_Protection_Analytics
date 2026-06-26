@@ -34,7 +34,7 @@ This project focuses on analyzing crimes against children in India using real-wo
 - Feature selection for ML models
 
 # Files Included
-- `Project.ipynb` → Main notebook
+- `crime_in_india.ipynb` → Main notebook
 - Visualizations
 
 # Results
